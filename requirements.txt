@@ -1,0 +1,8 @@
+python-dotenv
+pre-commit
+supertriplets
+fire
+matplotlib
+pyarrow
+faiss-gpu
+streamlit
