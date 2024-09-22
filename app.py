@@ -40,7 +40,7 @@ st.text("https://github.com/gabrieltardochi/multimodal-movie-retrieval-pytorch")
 st.subheader("", divider="rainbow")
 
 # input fields for image URL, format, and name
-poster_image = st.file_uploader("Upload poster image")
+poster_image = st.file_uploader("Upload poster image (png/jpeg)")
 plot_outline = st.text_area("Enter movie plot outline", max_chars=500, height=250)
 
 if st.button("Search"):
