@@ -1,7 +1,7 @@
 # multimodal-movie-retrieval-pytorch
 Basic demo on how to apply `SuperTriplets` to fine-tune CLIP-based embeddings for pairs of movie cover photos and plot outlines to build a multimodal search engine
 
-![movie retrieval proposed architecture](docs/movie-retrieval-arch.png)
+![movie retrieval proposed architecture](docs/movie-retrieval-arch-white.png)
 
 The core techs used are `SuperTriplets`, `PyTorch`, `FAISS` and `Streamlit`.
 
